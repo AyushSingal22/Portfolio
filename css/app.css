@@ -3,6 +3,8 @@ html{
 }
 
 body{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
         background-image: linear-gradient(to right, #7ee8fa , #eec0c6);
 
 
@@ -17,13 +19,18 @@ body{
     
     text-align: center;
 }
-
+.skill{
+     background-color: #7897AB;
+     
+}
 .navbar{
-    background-image: linear-gradient(135deg, #536976 10%, #292E49 100%);
-
+    background-image: linear-gradient(135deg, #121212 10%, #121212 100%);
+   
+  
 }
 .langs{
-    background-image: linear-gradient(135deg, #F761A1 10%, #8C1BAB 100%);
+   /* background-image: linear-gradient(135deg, #F761A1 10%, #8C1BAB 100%);*/
+   background-color: #6867AC;
 }
 .card{
 
