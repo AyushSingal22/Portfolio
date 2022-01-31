@@ -1,0 +1,73 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+        background-image: linear-gradient(to right, #7ee8fa , #eec0c6);
+
+
+}
+.navbar{
+    background-image: linear-gradient(135deg, #536976 10%, #292E49 100%);
+
+}
+.langs{
+    background-image: linear-gradient(135deg, #F761A1 10%, #8C1BAB 100%);
+}
+.card{
+    background-color: rgb(224, 224, 224);
+    border-width: 0em;
+}
+.btn{
+    background-color: #0396FF;
+    border-color: #0396FF;
+    font-weight: 500;
+}
+.card{
+    border-radius: 2%;
+}
+.phead{
+    font-size: 82px;
+}
+.phead1{
+    font-size: 62px;
+}
+#img1{
+    width: 600px;
+    border-radius: 25%;
+    margin-top: 10%;
+  
+}
+
+.p_imgs{
+    
+    width: 10em;
+    background-color: white;
+    border-radius: 10%;
+}
+h3{
+    font-weight: 350;
+}
+
+
+.cont1{
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 500px;
+    color:aliceblue;
+    padding-top: 0px;
+}
+.text{
+    font-weight: 200;
+}
+
+ @media  (max-width: 768px){
+    
+    #img1{
+        margin-left: 150px;
+        width: 200px;
+        align-self: center;
+    }
+    
+} 
